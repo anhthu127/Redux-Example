@@ -1,0 +1,51 @@
+{
+  "Products": [
+    {
+      "name": "đèn học",
+      "info": "chất lượng cao",
+      "cost": "150000",
+      "id": 21
+    },
+    {
+      "name": "Quạt trần  ",
+      "info": "chất lượng cao không lo rơi",
+      "cost": "20000000",
+      "id": 23
+    },
+    {
+      "name": "Tủ lạnh  ",
+      "info": "tiết kiệm điện",
+      "cost": "5000000",
+      "id": 23
+    },
+    {
+      "name": "điều hòa",
+      "info": "tiết kiệm điện",
+      "cost": "7000000",
+      "id": 27
+    },
+    {
+      "name": "nồi cơm điện",
+      "info": "120l",
+      "cost": "300000",
+      "id": 28
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

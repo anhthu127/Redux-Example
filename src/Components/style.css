@@ -1,0 +1,14 @@
+.initLoad {
+  border: 1px solid #0000005b;
+  background: white; }
+
+tr:hover .initLoad {
+  background: lightblue; }
+
+.abc {
+  border: 1px solid black;
+  float: left;
+  background: green; }
+
+body {
+  background: yellow; }
